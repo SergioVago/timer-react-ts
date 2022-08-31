@@ -61,7 +61,7 @@ export function CyclesContextProvider({
       return {
         cycles: [],
         activeCycleId: null,
-      } as CyclesState,
+      } as CyclesState
     },
   )
 
